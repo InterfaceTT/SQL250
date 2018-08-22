@@ -1,2 +1,2 @@
 
-Copyright (C) 2018 Jeff Jones
+Copyright (C) 2018 Interface Technical Training
